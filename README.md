@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DaGoblin
+- 👋 Hi, I’m Phil Williams
 
-I am currently doing a Master of Information Technology at Deakin University in Melbourne, Australia. In my professional career, I have learned VBA, mainly self-taught. So far in university, I’ve picked up the basics for C#, Javascript and NodeJS and looking to get a bit of python under my belt at some point.
+I recently compelted a Master of Information Technology at Deakin University in Melbourne, Australia. In my professional career, I have learned VBA, mainly self-taught. 
 
-From an interests point of view, I’m looking to get more involved with IoT and quite enjoy fiddling with my home automation setup built around home assistant. 
+From an interest point of view, I’m looking to get more involved with IoT and quite enjoy fiddling with my home automation setup built around home assistant. 
 
 
